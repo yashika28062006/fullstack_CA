@@ -1,6 +1,6 @@
 import React from 'react';
 import TestimonialCard from './components/TestimonialCard';
-import './app.css';
+import './App.css';
 // import TestimonialCard from './components/TestimonialCard';
 
 const cardsData=[
