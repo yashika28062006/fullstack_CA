@@ -1,1 +1,1 @@
-deployment link - https://fullstack-ca-2.onrender.com
+deployment link - https://aquamarine-dragon-2fd449.netlify.app/
